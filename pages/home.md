@@ -6,7 +6,7 @@ hidden: true
 header:
   #image: /assets/images/header.jpeg
   #overlay_color: #"#5e616c"
-  #overlay_image: /assets/images/fog_road.jpeg
+  #overlay_image: assets/images/Weed-Science-1.jpg
 title: "  "
 tagline: "  "   
 author_profile: true
