@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /Resources/
+permalink: /resources/
 hidden: true
 header:
   overlay_image: /assets/images/headers/talks_single-overlay.jpeg
