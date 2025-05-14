@@ -1,64 +1,37 @@
 ---
 layout: single
-permalink: / 
-     
-hidden: true
-header:
-  #image: /assets/images/header.jpeg
-  #overlay_color: #"#5e616c"
-  #overlay_image: assets/images/Weed-Science-1.jpg
-title: "  "
-tagline: "  "   
+title: "Resources"
+permalink: /resources/
 author_profile: true
-classes: wide
-   
-feature_row1:
-  - image_path: assets/images/Weed-Science-1.jpg
-    alt: "Resources"
-    excerpt: "Enter a relatively short description here"
-    url: "/resources/" # note that these can also be full urls that take people to other sites
-    btn_class: "btn--inverse" # feel free to change the button style!
-    btn_label: "Whatever you want your button to say"
-    
-feature_row2:
-  - image_path: path_to_your_image.png # no quotes this time
-    alt: "Lectures"
-    excerpt: "Enter a relatively short description here"
-    url: "/lectures/" # note that these can also be full urls that take people to other sites
-    btn_class: "btn--inverse" # feel free to change the button style!
-    btn_label: "Whatever you want your button to say"
-    
-feature_row3:
-  - image_path: path_to_your_image.png # no quotes this time
-    alt: "Image Analysis Project"
-    excerpt: "Enter a relatively short description here"
-    url: "/image_analysis_project/" # note that these can also be full urls that take people to other sites
-    btn_class: "btn--inverse" # feel free to change the button style!
-    btn_label: "Whatever you want your button to say"
-
-feature_row4:
-  - image_path: path_to_your_image.png # no quotes this time
-    alt: "ggplot Project"
-    excerpt: "Enter a relatively short description here"
-    url: "/gglplot_project/" # note that these can also be full urls that take people to other sites
-    btn_class: "btn--inverse" # feel free to change the button style!
-    btn_label: "Whatever you want your button to say" 
 ---
 
-Portfolio of materials from [CSU CM515](https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main)! 
+# 📚 Useful Resources
 
-# Resources
+Welcome to the resources section! Here you will find links to key materials, datasets, and documentation relevant to our class and research projects.
 
-{% include feature_row id="feature_row1" type= "left" %}
+---
 
-# Lectures
+## 📂 Course Materials
 
-{% include feature_row id="feature_row2" type= "left" %}
+- [CSU CM515 Course Repository](https://github.com/Colorado-State-University-CMB/CM515-course-2025)  
+- [Lecture Slides and Notes](/lectures/)  
+- [Image Analysis Project](/image_analysis_project/)  
+- [ggplot Project](/gglplot_project/)
 
-# Image Analysis Project
+---
 
-{% include feature_row id="feature_row3" type= "left" %}
+## 📑 Key Documents
 
-# ggplot Project
+- [Scientific Writing Guidelines (PDF)](assets/documents/scientific_writing_guidelines.pdf)
+- [Data Management Plan Template (DOCX)](assets/documents/data_management_template.docx)
 
-{% include feature_row id="feature_row4" type= "left" %}
+---
+
+## 📊 Recommended Datasets
+
+- [Public Arabidopsis Dataset](https://www.arabidopsis.org/)  
+- [USDA Crop Data](https://www.nass.usda.gov/)  
+
+---
+
+Feel free to explore and download any material you find useful. If you have additional resources to share, please reach out!
