@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Anais Mejia Solorzano Website "
+title                    : "meekrobial Anais Mejia Solorzano Website "
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Anais Mejia-Solorzano"
-description              : "Peruvian scientist in progress (Always learning)."
+name                     : "meekrobial Anais Mejia-Solorzano"
+description              : "meekrobial Peruvian scientist in progress (Always learning)."
 url                      : "https://anaismejias.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
