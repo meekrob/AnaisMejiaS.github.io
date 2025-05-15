@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Anais Mejia"
+  name             : "Anais Mejia (via David)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Colorado State Unievrsity"
+  location         : "Colorado State University"
   email            :
   links:
     - label: "Email"
